@@ -1,0 +1,27 @@
+tools/
+├── python
+│   ├── 7510_up.bin
+│   ├── busLate.py
+│   ├── config.json
+│   ├── dinner2.py
+│   ├── dinner.py
+│   ├── getFunny.py
+│   ├── getNew.py
+│   ├── getPicture.py
+│   ├── getSwimmTicket_hu.py
+│   ├── getSwimmTicket.py
+│   ├── getThings.py
+│   ├── getWallPaper.py
+│   ├── jokeLog.txt
+│   ├── nature.json
+│   ├── scenery.json
+│   ├── sentMail.py
+│   ├── showMsg.py
+│   ├── tmp.py
+│   ├── translate.py
+│   └── upgrade.py
+└── shell
+    ├── execAndSaveResult.sh
+    └── make_7510.sh
+
+2 directories, 22 files
